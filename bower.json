@@ -1,0 +1,28 @@
+{
+  "name": "Hackathon2016",
+  "homepage": "https://github.com/elolson93/Hackathon2016",
+  "authors": [
+    "nedyatwelve@gmail.com",
+    "xanderwunderlich@gmail.com"
+  ],
+  "description": "The best hackathon project this side of the Mississsippi",
+  "main": "",
+  "keywords": [
+    "baller",
+    "milk",
+    "duds"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8"
+  }
+}
