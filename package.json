@@ -1,0 +1,32 @@
+{
+  "name": "dndhub",
+  "version": "1.0.0",
+  "description": "The thing",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elolson93/Hackathon2016.git"
+  },
+  "keywords": [
+    "milk",
+    "duds",
+    "bootstrapping",
+    "young",
+    "lads"
+  ],
+  "author": "elolson93@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elolson93/Hackathon2016/issues"
+  },
+  "homepage": "https://github.com/elolson93/Hackathon2016#readme"
+}
